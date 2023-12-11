@@ -1,0 +1,21 @@
+{
+  "name": "sf-ts-final-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 5566",
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaKochanova/to-do-list.git"
+  },
+  "author": "",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
