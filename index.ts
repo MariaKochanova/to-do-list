@@ -1,5 +1,3 @@
-// export { };
-
 // Create a "close" button and append it to each list item
 const myNodelist: HTMLCollectionOf<Element> = document.getElementsByTagName("LI");
 let i;

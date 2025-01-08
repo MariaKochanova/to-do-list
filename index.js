@@ -1,5 +1,4 @@
 "use strict";
-// export { };
 // Create a "close" button and append it to each list item
 const myNodelist = document.getElementsByTagName("LI");
 let i;
